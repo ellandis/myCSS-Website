@@ -107,6 +107,11 @@ p{
   right: 300px;
   top: 50px;
 }
+.bottom_cloud{
+  position: absolute;
+  left: 100px;
+  top: 400px;
+}
 
 .sun {
   width: 25%;
